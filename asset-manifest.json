@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facbook/static/css/main.c6f3bb08.css",
+    "main.js": "/facbook/static/js/main.12938cf5.js",
+    "static/js/453.b8e1e09d.chunk.js": "/facbook/static/js/453.b8e1e09d.chunk.js",
+    "index.html": "/facbook/index.html",
+    "main.c6f3bb08.css.map": "/facbook/static/css/main.c6f3bb08.css.map",
+    "main.12938cf5.js.map": "/facbook/static/js/main.12938cf5.js.map",
+    "453.b8e1e09d.chunk.js.map": "/facbook/static/js/453.b8e1e09d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f3bb08.css",
+    "static/js/main.12938cf5.js"
+  ]
+}
